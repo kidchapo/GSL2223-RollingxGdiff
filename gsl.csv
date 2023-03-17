@@ -1,0 +1,183 @@
+,Wk,Day,Date,Time,Home,Away,HomeGoals,AwayGoals,HXG,AXG,,,Attendance,Venue,Referee
+1,1,Fri,19/8/2022,21:30,Volos NFC,Asteras Tripoli,3,3,1.4,1,,,745,Panthessaliko Stadio,Konstantinos Perrakis
+2,1,Sat,20/8/2022,20:00,Atromitos,OFI Crete,3,1,1.5,0.8,,,715,Stadio Peristeriou,Aristotelis Diamantopoulos
+3,1,Sat,20/8/2022,21:30,PAS Lamia,AEK Athens,0,3,1.1,1.3,,,2002,Dimotiko Athlitiko Kentro Lamias,Aristomenis Koutsiaftis
+4,1,Sat,20/8/2022,21:45,PAOK,Panetolikos,1,0,1.7,0.2,,,8715,Stadio Toumbas,Angelos Evangelou
+5,1,Sun,21/8/2022,20:00,Panathinaikos,Ionikos,1,0,1.7,0.2,,,8518,Stadio Apóstolos Nikolaidis,Anastasios Sidiropoulos
+6,1,Sun,21/8/2022,20:30,Aris,Levadiakos,3,0,1.4,0.4,,,7353,Stadio Harilaou Kleánthis Vikelídis,Georgios Tzovaras
+7,1,Sun,21/8/2022,22:00,Olympiacos,PAS Giannina,2,0,1.3,0.4,,,9523,Stadio Georgios Karaiskáki,Evangelos Manouhos
+8,2,Fri,26/8/2022,21:30,Ionikos,Levadiakos,0,0,0.6,0.4,,,510,Dimotiko Gipedo Neapolis Nikaias,Spiros Zabalas
+9,2,Sat,27/8/2022,20:00,PAS Giannina,PAS Lamia,1,1,0.8,1.3,,,1391,Stadio Zosimades,Alexandros Tsakalidis
+10,2,Sat,27/8/2022,21:30,AEK Athens,Volos NFC,0,1,0.9,0.2,,,12526,Stadio Georgios Kamaras,Ioannis Papadopoulos
+11,2,Sun,28/8/2022,19:00,Panetolikos,Aris,3,1,0.9,0.6,,,1719,Stadio Panetolikou,Anastasios Papapetrou
+12,2,Sun,28/8/2022,21:00,OFI Crete,Panathinaikos,0,2,0.2,0.7,,,5079,Stadio Thódoros Vardinoyánnis,Vassilis Fotias
+13,2,Sun,28/8/2022,21:45,PAOK,Atromitos,2,1,1.4,0.3,,,10490,Stadio Toumbas,Athanasios Tzilos
+14,2,Mon,29/8/2022,19:00,Asteras Tripoli,Olympiacos,0,0,0.1,0.7,,,1229,Stadio Theodoros Kolokotronis,Dimitrios Karantonis
+15,3,Sat,3/9/2022,17:45,PAS Lamia,Asteras Tripoli,0,0,0.4,0.4,,,1157,Dimotiko Athlitiko Kentro Lamias,Angelos Angelakis
+16,3,Sat,3/9/2022,19:00,Olympiacos,Ionikos,3,1,2,0.5,,,15065,Stadio Georgios Karaiskáki,Aristotelis Diamantopoulos
+17,3,Sat,3/9/2022,20:30,Panathinaikos,Levadiakos,1,0,1.3,0.1,,,10123,Stadio Apóstolos Nikolaidis,Petros Tsagarakis
+18,3,Sun,4/9/2022,18:30,Atromitos,Panetolikos,1,1,1,0.5,,,1192,Stadio Peristeriou,Anastasios Sidiropoulos
+19,3,Sun,4/9/2022,19:00,Volos NFC,OFI Crete,0,1,0.6,0.2,,,664,Panthessaliko Stadio,Anastasios Papapetrou
+20,3,Sun,4/9/2022,21:30,AEK Athens,PAS Giannina,2,0,0.6,0.6,,,13072,Stadio Georgios Kamaras,Evangelos Manouhos
+21,3,Sun,4/9/2022,21:30,Aris,PAOK,0,0,1.4,0.5,,,12565,Stadio Harilaou Kleánthis Vikelídis,Miguel Garcia Godinho
+22,4,Sat,10/9/2022,18:30,OFI Crete,Panetolikos,1,2,0.5,0.5,,,3014,Stadio Thódoros Vardinoyánnis,Ioannis Papadopoulos
+23,4,Sat,10/9/2022,19:15,PAS Giannina,Levadiakos,2,1,1,0.3,,,1212,Stadio Zosimades,Andreas Gamaris
+24,4,Sat,10/9/2022,21:30,Ionikos,Atromitos,1,4,0.5,2,,,1037,Dimotiko Gipedo Neapolis Nikaias,Georgios Tzovaras
+25,4,Sun,11/9/2022,18:30,Olympiacos,Volos NFC,1,1,1.2,0.5,,,17017,Stadio Georgios Karaiskáki,Vassilis Fotias
+26,4,Sun,11/9/2022,21:30,Panathinaikos,AEK Athens,2,1,2.4,0.7,,,13943,Stadio Apóstolos Nikolaidis,Anastasios Sidiropoulos
+27,4,Sun,11/9/2022,21:30,Asteras Tripoli,Aris,0,2,2.1,0.7,,,827,Stadio Theodoros Kolokotronis,Konstantinos Tsetsilas
+28,4,Mon,12/9/2022,19:00,PAOK,PAS Lamia,1,0,0.6,0.3,,,10134,Stadio Toumbas,Petros Tsagarakis
+29,5,Sat,17/9/2022,20:00,Atromitos,PAS Lamia,0,0,0.7,0.8,,,NA,Stadio Peristeriou,Christos Vergetis
+30,5,Sat,17/9/2022,20:00,Panetolikos,AEK Athens,0,2,0.5,0.9,,,NA,Stadio Panetolikou,Aristotelis Diamantopoulos
+31,5,Sat,17/9/2022,21:30,Panathinaikos,PAS Giannina,3,0,0.9,0.2,,,NA,Stadio Apóstolos Nikolaidis,Aristomenis Koutsiaftis
+32,5,Sun,18/9/2022,18:00,Levadiakos,Asteras Tripoli,1,1,0.4,1.4,,,NA,Stadio Levadias,Konstantinos Perrakis
+33,5,Sun,18/9/2022,19:00,OFI Crete,PAOK,1,1,0.7,1.6,,,NA,Stadio Thódoros Vardinoyánnis,Anastasios Sidiropoulos
+34,5,Sun,18/9/2022,20:00,Aris,Olympiacos,2,1,1.9,0.3,,,NA,Stadio Harilaou Kleánthis Vikelídis,Tamás Bognár
+35,5,Sun,18/9/2022,21:00,Volos NFC,Ionikos,2,0,0.4,0.5,,,NA,Panthessaliko Stadio,Spiros Zabalas
+36,6,Sat,1/10/2022,19:30,PAS Lamia,Levadiakos,1,0,0.8,0.4,,,1456,Dimotiko Athlitiko Kentro Lamias,Efstathios Gortsilas
+37,6,Sun,2/10/2022,15:00,Asteras Tripoli,OFI Crete,2,0,0.9,0.8,,,1001,Stadio Theodoros Kolokotronis,Anastasios Papapetrou
+38,6,Sun,2/10/2022,16:00,Olympiacos,Atromitos,2,0,3.1,0.2,,,19825,Stadio Georgios Karaiskáki,Georgios Tzovaras
+39,6,Sun,2/10/2022,19:30,Volos NFC,Aris,2,0,1.6,0.8,,,2237,Dimotiko Stadio Neapolis Volou,Christos Vergetis
+40,6,Sun,2/10/2022,21:30,PAOK,Panathinaikos,1,2,0.9,1.9,,,21074,Stadio Toumbas,Julian Weinberger
+41,6,Mon,3/10/2022,18:00,PAS Giannina,Panetolikos,1,4,1.2,1.3,,,1177,Stadio Zosimades,Dimitris Maloutas
+42,6,Mon,3/10/2022,20:00,AEK Athens,Ionikos,4,1,1.6,0.2,,,31100,Olympiako Stadio Spyros Louis,Vassilis Fotias
+43,7,Sat,8/10/2022,17:00,Panetolikos,Volos NFC,2,3,0.5,1.2,,,2653,Stadio Panetolikou,Konstantinos Katoikos
+44,7,Sat,8/10/2022,19:30,Ionikos,PAS Lamia,1,1,1.3,0.4,,,1022,Dimotiko Gipedo Neapolis Nikaias,Andreas Gamaris
+45,7,Sun,9/10/2022,16:00,OFI Crete,Olympiacos,1,2,0.5,1.6,,,5100,Stadio Thódoros Vardinoyánnis,Aristotelis Diamantopoulos
+46,7,Sun,9/10/2022,16:30,Levadiakos,PAOK,1,1,0.5,1.2,,,2043,Stadio Levadias,Evangelos Manouhos
+47,7,Sun,9/10/2022,19:30,Panathinaikos,Asteras Tripoli,1,0,1.8,0.3,,,13930,Stadio Apóstolos Nikolaidis,Ioannis Papadopoulos
+48,7,Sun,9/10/2022,21:15,Aris,AEK Athens,0,2,0.4,1.7,,,11846,Stadio Harilaou Kleánthis Vikelídis,Gustavo Correia
+49,7,Mon,10/10/2022,18:00,Atromitos,PAS Giannina,2,1,1.7,0.4,,,804,Stadio Peristeriou,Angelos Angelakis
+50,8,Sat,15/10/2022,17:00,Volos NFC,Levadiakos,2,1,0.8,1,,,2357,Dimotiko Stadio Neapolis Volou,Petros Tsagarakis
+51,8,Sat,15/10/2022,20:30,Aris,Ionikos,2,1,2.3,0.7,,,6739,Stadio Harilaou Kleánthis Vikelídis,Anastasios Papapetrou
+52,8,Sun,16/10/2022,16:00,AEK Athens,Atromitos,1,0,2.2,0.5,,,30528,Olympiako Stadio Spyros Louis,Anastasios Sidiropoulos
+53,8,Sun,16/10/2022,18:00,PAS Giannina,OFI Crete,2,2,1.3,0.5,,,1808,Stadio Zosimades,Angelos Evangelou
+54,8,Sun,16/10/2022,19:30,PAS Lamia,Panathinaikos,0,2,0.2,0.9,,,2584,Dimotiko Athlitiko Kentro Lamias,Vassilis Fotias
+55,8,Sun,16/10/2022,20:30,Asteras Tripoli,Panetolikos,0,0,1.2,0.2,,,975,Stadio Theodoros Kolokotronis,Spiros Zabalas
+56,8,Mon,17/10/2022,20:00,Olympiacos,PAOK,1,2,1.6,0.3,,,25100,Stadio Georgios Karaiskáki,Andris Treimanis
+57,9,Sat,22/10/2022,19:00,Atromitos,Volos NFC,0,2,0.5,0.8,,,1682,Stadio Peristeriou,Vassilis Fotias
+58,9,Sat,22/10/2022,19:30,Panetolikos,Olympiacos,0,2,0.1,1,,,3288,Stadio Panetolikou,Andreas Gamaris
+59,9,Sun,23/10/2022,16:00,Ionikos,PAS Giannina,2,2,0.4,2.3,,,1329,Dimotiko Gipedo Neapolis Nikaias,Athanasios Tzilos
+60,9,Sun,23/10/2022,19:30,PAOK,Asteras Tripoli,2,2,2.2,1.5,,,12495,Stadio Toumbas,Stefanos Koubarakis
+61,9,Sun,23/10/2022,19:30,Panathinaikos,Aris,1,0,0.6,0.2,,,12917,Stadio Apóstolos Nikolaidis,Theodoros Daloukas
+62,9,Mon,24/10/2022,18:00,Levadiakos,AEK Athens,0,2,0.3,1.9,,,3225,Stadio Levadias,Christos Vergetis
+63,9,Mon,24/10/2022,20:00,OFI Crete,PAS Lamia,0,0,0.6,0.7,,,3025,Stadio Thódoros Vardinoyánnis,Dimitris Maloutas
+64,10,Sat,29/10/2022,17:00,Ionikos,Panetolikos,1,1,0.8,1.6,,,1133,Dimotiko Gipedo Neapolis Nikaias,Anastasios Papapetrou
+65,10,Sat,29/10/2022,19:30,Volos NFC,Panathinaikos,1,5,1.3,1.1,,,14882,Dimotiko Stadio Neapolis Volou,Anastasios Sidiropoulos
+66,10,Sun,30/10/2022,16:00,Olympiacos,PAS Lamia,2,0,0.8,0.9,,,17024,Stadio Georgios Karaiskáki,Evangelos Manouhos
+67,10,Sun,30/10/2022,16:30,Levadiakos,Atromitos,2,1,1.9,0.5,,,1073,Stadio Levadias,Aristotelis Diamantopoulos
+68,10,Sun,30/10/2022,19:30,AEK Athens,PAOK,2,0,1,0.4,,,31100,Olympiako Stadio Spyros Louis,Daniel Stefanski
+69,10,Sun,30/10/2022,20:30,Aris,OFI Crete,1,1,1.3,0.2,,,7006,Stadio Harilaou Kleánthis Vikelídis,Georgios Tzovaras
+70,10,Mon,31/10/2022,18:00,PAS Giannina,Asteras Tripoli,2,1,1.4,0.5,,,1330,Stadio Zosimades,Fotis Polychronis
+71,11,Sat,5/11/2022,15:45,PAS Lamia,Volos NFC,2,2,1.4,0.5,,,1267,Dimotiko Athlitiko Kentro Lamias,Stavros Tsimenteridis
+72,11,Sat,5/11/2022,18:30,OFI Crete,Ionikos,0,2,0.9,1.6,,,3904,Stadio Thódoros Vardinoyánnis,Konstantinos Katoikos
+73,11,Sat,5/11/2022,19:00,Atromitos,Aris,0,0,0.3,0.6,,,2263,Stadio Peristeriou,Spiros Zabalas
+74,11,Sat,5/11/2022,21:00,PAOK,PAS Giannina,2,0,1.6,0.2,,,7800,Stadio Toumbas,Konstantinos Perrakis
+75,11,Sun,6/11/2022,16:00,Panetolikos,Levadiakos,0,0,0.9,0.1,,,1821,Stadio Panetolikou,Angelos Evangelou
+76,11,Sun,6/11/2022,19:30,Panathinaikos,Olympiacos,1,1,1,0.9,,,13907,Stadio Apóstolos Nikolaidis,Jakob Kehlet
+77,11,Sun,6/11/2022,20:30,Asteras Tripoli,AEK Athens,1,1,0.5,1.8,,,1120,Stadio Theodoros Kolokotronis,Vassilis Fotias
+78,12,Tue,8/11/2022,20:00,Aris,PAS Lamia,5,0,2.1,0.5,,,4837,Stadio Harilaou Kleánthis Vikelídis,Anastasios Sidiropoulos
+79,12,Wed,9/11/2022,17:00,Panetolikos,Panathinaikos,0,1,0.2,2.1,,,3391,Stadio Panetolikou,Christos Vergetis
+80,12,Wed,9/11/2022,18:00,Atromitos,Asteras Tripoli,2,0,0.9,2.7,,,1345,Stadio Peristeriou,Efstathios Gortsilas
+81,12,Wed,9/11/2022,20:00,AEK Athens,OFI Crete,3,0,2.2,0.4,,,29128,Olympiako Stadio Spyros Louis,Aristomenis Koutsiaftis
+82,12,Wed,9/11/2022,20:00,Levadiakos,Olympiacos,0,1,0.4,0.7,,,3669,Stadio Levadias,Ioannis Papadopoulos
+83,12,Thu,10/11/2022,19:00,Volos NFC,PAS Giannina,2,1,1.3,0.4,,,2209,Dimotiko Stadio Neapolis Volou,Anastasios Papapetrou
+84,12,Thu,10/11/2022,21:30,Ionikos,PAOK,0,3,0.2,1.5,,,1111,Dimotiko Gipedo Neapolis Nikaias,Petros Tsagarakis
+85,13,Sun,13/11/2022,16:00,PAS Giannina,Aris,0,4,0.4,2.5,,,1955,Stadio Zosimades,Dimitris Maloutas
+86,13,Sun,13/11/2022,17:15,Panathinaikos,Atromitos,2,0,1.3,0.1,,,13163,Stadio Apóstolos Nikolaidis,Evangelos Manouhos
+87,13,Sun,13/11/2022,18:00,PAS Lamia,Panetolikos,1,3,0.7,2.4,,,1202,Dimotiko Athlitiko Kentro Lamias,Alexandros Tsakalidis
+88,13,Sun,13/11/2022,19:30,Olympiacos,AEK Athens,0,0,0.9,1,,,31717,Stadio Georgios Karaiskáki,Glenn Nyberg
+89,13,Sun,13/11/2022,21:30,PAOK,Volos NFC,3,0,2.7,0.9,,,9880,Stadio Toumbas,Andreas Gamaris
+90,13,Mon,14/11/2022,18:00,Asteras Tripoli,Ionikos,1,0,1.7,0.8,,,856,Stadio Theodoros Kolokotronis,Konstantinos Perrakis
+91,13,Mon,14/11/2022,19:30,OFI Crete,Levadiakos,2,1,1.6,0.2,,,3015,Stadio Thódoros Vardinoyánnis,Angelos Angelakis
+92,14,Wed,21/12/2022,15:00,Levadiakos,Aris,1,1,0.5,1.4,,,NA,Stadio Levadias,Anastasios Papapetrou
+93,14,Wed,21/12/2022,17:00,AEK Athens,PAS Lamia,3,0,1.9,0.3,,,23571,Olympiako Stadio Spyros Louis,Evangelos Manouhos
+94,14,Wed,21/12/2022,17:00,Asteras Tripoli,Volos NFC,0,0,1.5,0.8,,,533,Stadio Theodoros Kolokotronis,Georgios Tzovaras
+95,14,Wed,21/12/2022,20:00,PAS Giannina,Olympiacos,2,2,1.1,1.1,,,4108,Stadio Zosimades,Stefanos Koubarakis
+96,14,Wed,21/12/2022,21:30,Ionikos,Panathinaikos,1,1,0.5,1.5,,,1094,Dimotiko Gipedo Neapolis Nikaias,Ioannis Papadopoulos
+97,14,Thu,22/12/2022,17:00,OFI Crete,Atromitos,0,1,0.9,0.2,,,NA,Stadio Thódoros Vardinoyánnis,Athanasios Tzilos
+98,14,Thu,22/12/2022,19:30,Panetolikos,PAOK,0,2,0.7,1.9,,,NA,Stadio Panetolikou,Anastasios Sidiropoulos
+99,15,Wed,28/12/2022,17:00,Levadiakos,Ionikos,1,0,1.1,0.9,,,NA,Stadio Levadias,Anastasios Sidiropoulos
+100,15,Wed,28/12/2022,18:00,Olympiacos,Asteras Tripoli,5,0,1.8,0.8,,,NA,Stadio Georgios Karaiskáki,Konstantinos Perrakis
+101,15,Wed,28/12/2022,19:30,Volos NFC,AEK Athens,0,4,0.2,2,,,NA,Dimotiko Stadio Neapolis Volou,Petros Tsagarakis
+102,15,Wed,28/12/2022,20:00,Atromitos,PAOK,1,1,0.5,1,,,NA,Stadio Peristeriou,Aristomenis Koutsiaftis
+103,15,Wed,28/12/2022,21:30,Panathinaikos,OFI Crete,1,1,1.3,0,,,NA,Stadio Apóstolos Nikolaidis,Efstathios Gortsilas
+104,15,Thu,29/12/2022,18:00,Aris,Panetolikos,1,0,2.5,0.3,,,NA,Stadio Harilaou Kleánthis Vikelídis,Spiros Zabalas
+105,15,Thu,29/12/2022,18:30,PAS Lamia,PAS Giannina,1,1,0.4,0.4,,,NA,Dimotiko Athlitiko Kentro Lamias,Christos Vergetis
+106,16,Tue,3/1/2023,16:30,OFI Crete,Volos NFC,0,0,1.4,0.8,,,NA,Stadio Thódoros Vardinoyánnis,Angelos Evangelou
+107,16,Tue,3/1/2023,17:00,Levadiakos,Panathinaikos,0,1,0.7,0.7,,,NA,Stadio Apóstolos Nikolaidis,Alexandros Tsakalidis
+108,16,Tue,3/1/2023,20:00,PAS Giannina,AEK Athens,2,1,0.3,1.5,,,NA,Stadio Zosimades,Vassilis Fotias
+109,16,Tue,3/1/2023,21:30,Ionikos,Olympiacos,0,2,0,1.1,,,NA,Dimotiko Gipedo Neapolis Nikaias,Aristotelis Diamantopoulos
+110,16,Wed,4/1/2023,17:00,Asteras Tripoli,PAS Lamia,3,0,1.3,0.2,,,NA,Stadio Theodoros Kolokotronis,Konstantinos Katoikos
+111,16,Wed,4/1/2023,18:00,Panetolikos,Atromitos,2,0,1.3,0.3,,,NA,Stadio Panetolikou,Dimitris Maloutas
+112,16,Wed,4/1/2023,20:00,PAOK,Aris,1,0,1.4,0.2,,,NA,Stadio Toumbas,Tamás Bognár
+113,17,Sat,7/1/2023,17:30,Levadiakos,PAS Giannina,1,3,0.5,0.8,,,NA,Stadio Levadias,Evangelos Manouhos
+114,17,Sat,7/1/2023,19:30,PAS Lamia,PAOK,0,3,0.2,1.5,,,NA,Dimotiko Athlitiko Kentro Lamias,Stefanos Koubarakis
+115,17,Sun,8/1/2023,16:00,Volos NFC,Olympiacos,0,4,0.5,2.5,,,NA,Dimotiko Stadio Neapolis Volou,Anastasios Papapetrou
+116,17,Sun,8/1/2023,17:00,Atromitos,Ionikos,2,0,2.3,0.4,,,NA,Stadio Peristeriou,Ioannis Papadopoulos
+117,17,Sun,8/1/2023,19:00,Aris,Asteras Tripoli,3,0,1.4,0.5,,,NA,Stadio Harilaou Kleánthis Vikelídis,Athanasios Tzilos
+118,17,Sun,8/1/2023,19:30,AEK Athens,Panathinaikos,1,0,1.4,0.3,,,NA,Olympiako Stadio Spyros Louis,António Nobre
+119,17,Mon,9/1/2023,17:00,Panetolikos,OFI Crete,0,4,0.2,0.9,,,NA,Stadio Panetolikou,Stavros Tsimenteridis
+120,18,Sat,14/1/2023,17:00,PAS Lamia,Atromitos,1,1,1.8,1.1,,,NA,Dimotiko Athlitiko Kentro Lamias,Aristotelis Diamantopoulos
+121,18,Sat,14/1/2023,20:00,PAOK,OFI Crete,0,0,1,0.3,,,NA,Stadio Toumbas,Dimitrios Karantonis
+122,18,Sun,15/1/2023,16:00,AEK Athens,Panetolikos,4,1,2.9,0.9,,,NA,Olympiako Stadio Spyros Louis,Christos Vergetis
+123,18,Sun,15/1/2023,17:00,Asteras Tripoli,Levadiakos,0,0,0.6,0.3,,,NA,Stadio Theodoros Kolokotronis,Ioannis Papadopoulos
+124,18,Sun,15/1/2023,19:30,Olympiacos,Aris,1,0,1.2,0.8,,,NA,Stadio Georgios Karaiskáki,Roi Reinshreiber
+125,18,Sun,15/1/2023,20:30,PAS Giannina,Panathinaikos,0,1,0.7,2,,,NA,Stadio Zosimades,Petros Tsagarakis
+126,18,Mon,16/1/2023,19:30,Ionikos,Volos NFC,0,1,0.6,1.5,,,NA,Dimotiko Gipedo Neapolis Nikaias,Konstantinos Perrakis
+127,19,Fri,20/1/2023,20:30,Panetolikos,PAS Giannina,1,1,0.5,0.5,,,NA,Stadio Panetolikou,
+128,19,Sat,21/1/2023,17:00,OFI Crete,Asteras Tripoli,1,0,0.4,0.4,,,NA,Stadio Thódoros Vardinoyánnis,
+129,19,Sat,21/1/2023,20:00,Aris,Volos NFC,3,0,0.6,0.2,,,NA,Stadio Harilaou Kleánthis Vikelídis,
+130,19,Sun,22/1/2023,16:00,Ionikos,AEK Athens,1,2,0.8,0.7,,,NA,Dimotiko Gipedo Neapolis Nikaias,
+131,19,Sun,22/1/2023,17:00,Levadiakos,PAS Lamia,0,0,1.4,0.2,,,NA,Stadio Levadias,
+132,19,Sun,22/1/2023,19:30,Panathinaikos,PAOK,0,3,0.8,1.2,,,NA,Stadio Apóstolos Nikolaidis,
+133,19,Sun,22/1/2023,20:30,Atromitos,Olympiacos,1,1,0.8,1.2,,,NA,Stadio Peristeriou,
+134,20,Sat,28/1/2023,19:30,Volos NFC,Panetolikos,2,3,1.2,1.8,,,NA,Dimotiko Stadio Neapolis Volou,
+135,20,Sat,28/1/2023,20:00,PAS Giannina,Atromitos,1,1,1.9,0.9,,,NA,Stadio Zosimades,
+136,20,Sun,29/1/2023,16:00,Olympiacos,OFI Crete,2,1,3,0.6,,,NA,Stadio Georgios Karaiskáki,
+137,20,Sun,29/1/2023,19:30,AEK Athens,Aris,3,0,1.7,0.4,,,NA,Olympiako Stadio Spyros Louis,
+138,20,Mon,30/1/2023,21:00,Asteras Tripoli,Panathinaikos,1,0,0.2,0.2,,,NA,Stadio Theodoros Kolokotronis,
+139,20,Mon,30/1/2023,18:00,PAOK,Levadiakos,3,2,2.3,0.9,,,NA,Stadio Toumbas,
+140,20,Mon,30/1/2023,19:30,PAS Lamia,Ionikos,0,2,0.4,0.4,,,NA,Dimotiko Athlitiko Kentro Lamias,
+141,21,Sat,4/2/2023,,Ionikos,Aris,1,0,1.1,0.8,,,NA,Dimotiko Gipedo Neapolis Nikaias,
+142,21,Sat,4/2/2023,,Levadiakos,Volos NFC,0,3,0.4,1.1,,,NA,Stadio Levadias,
+143,21,Sat,4/2/2023,,Panetolikos,Asteras Tripoli,0,0,0.4,0.8,,,NA,Stadio Panetolikou,
+144,21,Sat,4/2/2023,,PAOK,Olympiacos,0,0,1.5,0.2,,,NA,Stadio Toumbas,
+145,21,Sat,4/2/2023,,OFI Crete,PAS Giannina,0,0,1.2,0.3,,,NA,Stadio Thódoros Vardinoyánnis,
+146,21,Sat,4/2/2023,,Atromitos,AEK Athens,0,1,0.3,1.2,,,NA,Stadio Peristeriou,
+147,21,Sat,4/2/2023,,Panathinaikos,PAS Lamia,2,0,1.9,0.7,,,NA,Stadio Apóstolos Nikolaidis,
+148,22,Sat,11/2/2023,,Asteras Tripoli,PAOK,2,2,0.7,1.5,,,NA,Stadio Theodoros Kolokotronis,
+149,22,Sat,11/2/2023,,PAS Giannina,Ionikos,0,0,1.5,0.7,,,NA,Stadio Zosimades,
+150,22,Sat,11/2/2023,,Aris,Panathinaikos,1,2,0.6,0.9,,,NA,Stadio Harilaou Kleánthis Vikelídis,
+151,22,Sat,11/2/2023,,Olympiacos,Panetolikos,6,1,2.1,0.6,,,NA,Stadio Georgios Karaiskáki,
+152,22,Sat,11/2/2023,,Volos NFC,Atromitos,2,1,0.5,1.1,,,NA,Dimotiko Stadio Neapolis Volou,
+153,22,Sat,11/2/2023,,AEK Athens,Levadiakos,3,0,3,0.1,,,NA,Olympiako Stadio Spyros Louis,
+154,22,Sat,11/2/2023,,PAS Lamia,OFI Crete,1,4,1.3,1.3,,,NA,Dimotiko Athlitiko Kentro Lamias,
+155,23,Sat,18/2/2023,,Atromitos,Levadiakos,1,0,1.5,0.4,,,NA,Stadio Peristeriou,
+156,23,Sat,18/2/2023,,PAS Lamia,Olympiacos,0,3,0.2,1.8,,,NA,Dimotiko Athlitiko Kentro Lamias,
+157,23,Sat,18/2/2023,,PAOK,AEK Athens,2,0,0.5,0.8,,,NA,Stadio Toumbas,
+158,23,Sat,18/2/2023,,OFI Crete,Aris,0,3,0.8,1.7,,,NA,Stadio Thódoros Vardinoyánnis,
+159,23,Sat,18/2/2023,,Panetolikos,Ionikos,1,0,0.8,0.4,,,NA,Stadio Panetolikou,
+160,23,Sat,18/2/2023,,Panathinaikos,Volos NFC,2,0,3.8,0,,,NA,Stadio Apóstolos Nikolaidis,
+161,23,Sat,18/2/2023,,Asteras Tripoli,PAS Giannina,1,1,0.4,1,,,NA,Stadio Theodoros Kolokotronis,
+162,24,Sat,25/2/2023,,AEK Athens,Asteras Tripoli,2,0,3.7,0,,,NA,Olympiako Stadio Spyros Louis,
+163,24,Sat,25/2/2023,,Aris,Atromitos,2,1,1.3,0.4,,,NA,Stadio Harilaou Kleánthis Vikelídis,
+164,24,Sat,25/2/2023,,PAS Giannina,PAOK,0,0,0.2,0.6,,,NA,Stadio Zosimades,
+165,24,Sat,25/2/2023,,Levadiakos,Panetolikos,0,0,0.4,0.4,,,NA,Stadio Levadias,
+166,24,Sat,25/2/2023,,Olympiacos,Panathinaikos,0,0,0.9,0.2,,,NA,Stadio Georgios Karaiskáki,
+167,24,Sat,25/2/2023,,Ionikos,OFI Crete,0,2,0.8,1.7,,,NA,Dimotiko Gipedo Neapolis Nikaias,
+168,24,Sat,25/2/2023,,Volos NFC,PAS Lamia,1,1,1.2,1,,,NA,Dimotiko Stadio Neapolis Volou,
+169,25,Sat,4/3/2023,,Asteras Tripoli,Atromitos,1,1,0.5,1.1,,,NA,Stadio Theodoros Kolokotronis,
+170,25,Sat,4/3/2023,,OFI Crete,AEK Athens,0,3,0.8,1.4,,,NA,Stadio Thódoros Vardinoyánnis,
+171,25,Sat,4/3/2023,,Olympiacos,Levadiakos,6,0,3.4,0.3,,,NA,Stadio Georgios Karaiskáki,
+172,25,Sat,4/3/2023,,Panathinaikos,Panetolikos,2,0,3.2,0.3,,,NA,Stadio Apóstolos Nikolaidis,
+173,25,Sat,4/3/2023,,PAS Giannina,Volos NFC,0,1,0.9,0.6,,,NA,Stadio Zosimades,
+174,25,Sat,4/3/2023,,PAS Lamia,Aris,2,1,0.5,0.8,,,NA,Dimotiko Athlitiko Kentro Lamias,
+175,25,Sat,4/3/2023,,PAOK,Ionikos,6,0,2.6,0.1,,,NA,Stadio Toumbas,
+176,26,Sat,11/3/2023,,Aris,PAS Giannina,3,1,1.5,0.3,,,NA,Stadio Harilaou Kleánthis Vikelídis,
+177,26,Sat,11/3/2023,,Ionikos,Asteras Tripoli,1,0,0.4,0.1,,,NA,Dimotiko Gipedo Neapolis Nikaias,
+178,26,Sat,11/3/2023,,Levadiakos,OFI Crete,2,0,1.3,0.3,,,NA,Stadio Levadias,
+179,26,Sat,11/3/2023,,Panetolikos,PAS Lamia,1,1,1.3,0.4,,,NA,Stadio Panetolikou,
+180,26,Sat,11/3/2023,,Volos NFC,PAOK,0,1,0.2,1.2,,,NA,Dimotiko Stadio Neapolis Volou,
+181,26,Sat,11/3/2023,,AEK Athens,Olympiacos,1,3,0.9,0.9,,,NA,Olympiako Stadio Spyros Louis,
+182,26,Sat,11/3/2023,,Atromitos,Panathinaikos,0,2,0.3,1.9,,,NA,Stadio Peristeriou,
